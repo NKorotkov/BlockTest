@@ -10,6 +10,8 @@ build/
 *.perspectivev3
 !default.perspectivev3
 xcuserdata
+*.xcworkspace
+.DS_Store
 *.xccheckout
 *.moved-aside
 DerivedData
